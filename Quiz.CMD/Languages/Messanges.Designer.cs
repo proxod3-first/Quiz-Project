@@ -79,7 +79,7 @@ namespace Quiz.CMD.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome, Men!.
+        ///   Looks up a localized string similar to Welcome!.
         /// </summary>
         internal static string Welcome {
             get {

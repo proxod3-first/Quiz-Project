@@ -124,6 +124,6 @@
     <value>You are new user!</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>Welcome, Men!</value>
+    <value>Welcome!</value>
   </data>
 </root>
